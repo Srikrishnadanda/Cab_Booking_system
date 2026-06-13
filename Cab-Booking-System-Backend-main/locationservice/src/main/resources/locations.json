@@ -1,0 +1,320 @@
+[
+  {
+    "area": "Adambakkam",
+    "location": "South and East Chennai",
+    "latitude": "12.988",
+    "longitude": "80.2047"
+  },
+  {
+    "area": "Adyar",
+    "location": "South and East Chennai",
+    "latitude": "13.0012",
+    "longitude": "80.2565"
+  },
+  {
+    "area": "Alandur",
+    "location": "South and East Chennai",
+    "latitude": "12.9975",
+    "longitude": "80.2006"
+  },
+  {
+    "area": "Alapakkam",
+    "location": "West Chennai",
+    "latitude": "13.049",
+    "longitude": "80.1673"
+  },
+  {
+    "area": "Alwarthirunagar",
+    "location": "West Chennai",
+    "latitude": "13.0426",
+    "longitude": "80.184"
+  },
+  {
+    "area": "Ambattur",
+    "location": "West Chennai",
+    "latitude": "13.1143",
+    "longitude": "80.1548"
+  },
+  {
+    "area": "Aminjikarai",
+    "location": "West Chennai",
+    "latitude": "13.0698",
+    "longitude": "80.2245"
+  },
+  {
+    "area": "Anna Nagar",
+    "location": "West Chennai",
+    "latitude": "13.085",
+    "longitude": "80.2101"
+  },
+  {
+    "area": "Annanur",
+    "location": "West Chennai",
+    "latitude": "13.1184",
+    "longitude": "80.1246"
+  },
+  {
+    "area": "Arumbakkam",
+    "location": "West Chennai",
+    "latitude": "13.0724",
+    "longitude": "80.2102"
+  },
+  {
+    "area": "Ashok Nagar",
+    "location": "West Chennai",
+    "latitude": "13.0373",
+    "longitude": "80.2123"
+  },
+  {
+    "area": "Avadi",
+    "location": "West Chennai",
+    "latitude": "13.1067",
+    "longitude": "80.097"
+  },
+  {
+    "area": "Ayappakkam",
+    "location": "West Chennai",
+    "latitude": "13.0925",
+    "longitude": "80.1372"
+  },
+  {
+    "area": "Basin Bridge",
+    "location": "North Chennai",
+    "latitude": "13.1014",
+    "longitude": "80.2704"
+  },
+  {
+    "area": "Besant Nagar",
+    "location": "South and East Chennai",
+    "latitude": "13.0003",
+    "longitude": "80.2667"
+  },
+  {
+    "area": "Broadway",
+    "location": "North Chennai",
+    "latitude": "19.2274",
+    "longitude": "72.9739"
+  },
+  {
+    "area": "Central",
+    "location": "North Chennai",
+    "latitude": "13.0825",
+    "longitude": "80.2755"
+  },
+  {
+    "area": "Chetpet",
+    "location": "South and East Chennai",
+    "latitude": "13.0714",
+    "longitude": "80.2417"
+  },
+  {
+    "area": "Choolai",
+    "location": "North Chennai",
+    "latitude": "13.0919",
+    "longitude": "80.2642"
+  },
+  {
+    "area": "MMDA Colony",
+    "location": "West Chennai",
+    "latitude": "13.0665",
+    "longitude": "80.2147"
+  },
+  {
+    "area": "Defence Colony",
+    "location": "West Chennai",
+    "latitude": "13.0262",
+    "longitude": "80.2022"
+  },
+  {
+    "area": "Egmore",
+    "location": "South and East Chennai",
+    "latitude": "13.0732",
+    "longitude": "80.2609"
+  },
+  {
+    "area": "Ennore",
+    "location": "North Chennai",
+    "latitude": "13.2146",
+    "longitude": "80.3203"
+  },
+  {
+    "area": "Erukanchery",
+    "location": "North Chennai",
+    "latitude": "13.12368",
+    "longitude": "80.24828"
+  },
+  {
+    "area": "George Town",
+    "location": "North Chennai",
+    "latitude": "13.0969",
+    "longitude": "80.2865"
+  },
+  {
+    "area": "Gerugambakkam",
+    "location": "West Chennai",
+    "latitude": "13.0136",
+    "longitude": "80.1353"
+  },
+  {
+    "area": "Gopalapuram",
+    "location": "South and East Chennai",
+    "latitude": "13.0489",
+    "longitude": "80.2586"
+  },
+  {
+    "area": "Guindy",
+    "location": "South and East Chennai",
+    "latitude": "13.0067",
+    "longitude": "80.2206"
+  },
+  {
+    "area": "Hastinapuram",
+    "location": "South and East Chennai",
+    "latitude": "12.9387",
+    "longitude": "80.1461"
+  },
+  {
+    "area": "ICF Colony",
+    "location": "North Chennai",
+    "latitude": "13.0981",
+    "longitude": "80.2195"
+  },
+  {
+    "area": "Injambakkam",
+    "location": "South and East Chennai",
+    "latitude": "12.9198",
+    "longitude": "80.2511"
+  },
+  {
+    "area": "Irumbuliyur",
+    "location": "South and East Chennai",
+    "latitude": "12.9172",
+    "longitude": "80.1077"
+  },
+  {
+    "area": "Iyyapanthangal",
+    "location": "West Chennai",
+    "latitude": "13.0381",
+    "longitude": "80.1354"
+  },
+  {
+    "area": "Jamalia",
+    "location": "North Chennai",
+    "latitude": "13.1048",
+    "longitude": "80.2533"
+  },
+  {
+    "area": "K.K. Nagar",
+    "location": "West Chennai",
+    "latitude": "13.041",
+    "longitude": "80.1994"
+  },
+  {
+    "area": "Kadaperi",
+    "location": "South and East Chennai",
+    "latitude": "12.9336",
+    "longitude": "80.1254"
+  },
+  {
+    "area": "Kallikuppam",
+    "location": "North Chennai",
+    "latitude": "13.13097",
+    "longitude": "80.17486"
+  },
+  {
+    "area": "Karambakkam",
+    "location": "West Chennai",
+    "latitude": "13.0376",
+    "longitude": "80.1532"
+  },
+  {
+    "area": "Kathirvedu",
+    "location": "North Chennai",
+    "latitude": "13.1521",
+    "longitude": "80.2001"
+  },
+  {
+    "area": "Kathivakkam",
+    "location": "North Chennai",
+    "latitude": "13.2046",
+    "longitude": "80.31674"
+  },
+  {
+    "area": "Keelkattalai",
+    "location": "South and East Chennai",
+    "latitude": "12.9556",
+    "longitude": "80.1869"
+  },
+  {
+    "area": "Kodungaiyur",
+    "location": "North Chennai",
+    "latitude": "13.14096",
+    "longitude": "80.24818"
+  },
+  {
+    "area": "Kolappakkam",
+    "location": "South and East Chennai",
+    "latitude": "13.0101",
+    "longitude": "80.1492"
+  },
+  {
+    "area": "Kolathur",
+    "location": "North Chennai",
+    "latitude": "13.124",
+    "longitude": "80.2121"
+  },
+  {
+    "area": "Korattur",
+    "location": "West Chennai",
+    "latitude": "13.1082",
+    "longitude": "80.1834"
+  },
+  {
+    "area": "Korukkupet",
+    "location": "North Chennai",
+    "latitude": "13.1186",
+    "longitude": "80.278"
+  },
+  {
+    "area": "Kosapet",
+    "location": "North Chennai",
+    "latitude": "13.0922",
+    "longitude": "80.2551"
+  },
+  {
+    "area": "Kottivakkam",
+    "location": "South and East Chennai",
+    "latitude": "12.9682",
+    "longitude": "80.2599"
+  },
+  {
+    "area": "Kovilambakkam",
+    "location": "South and East Chennai",
+    "latitude": "12.9409",
+    "longitude": "80.1851"
+  },
+  {
+    "area": "Koyambedu",
+    "location": "West Chennai",
+    "latitude": "13.0694",
+    "longitude": "80.1948"
+  },
+  {
+    "area": "Kundrathur",
+    "location": "West Chennai",
+    "latitude": "12.9977",
+    "longitude": "80.0972"
+  },
+  {
+    "area": "Lakshmipuram",
+    "location": "North Chennai",
+    "latitude": "13.1361",
+    "longitude": "80.2005"
+  },
+  {
+    "area": "M.G.R. Garden",
+    "location": "West Chennai",
+    "latitude": "13.025",
+    "longitude": "80.1823"
+  }
+]

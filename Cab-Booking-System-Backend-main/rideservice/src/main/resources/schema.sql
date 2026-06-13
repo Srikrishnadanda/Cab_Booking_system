@@ -1,0 +1,23 @@
+CREATE TABLE Ride (
+    rideId INT AUTO_INCREMENT PRIMARY KEY,
+    userId INT NOT NULL,
+    driverId INT NOT NULL,
+    pickupLocation VARCHAR(255) NOT NULL,
+    dropLocation VARCHAR(255) NOT NULL,
+    requestedAt DATETIME NOT NULL,
+    assignedAt DATETIME,
+    arrivedAt DATETIME,
+    startedAt DATETIME,
+    completedAt DATETIME,
+    cancelledAt DATETIME,
+    cancelReason VARCHAR(255),
+    cancelledBy VARCHAR(100),
+    immediateBooking BOOLEAN NOT NULL,
+    fare DOUBLE NOT NULL,
+    distance DOUBLE NOT NULL,
+    status VARCHAR(50) NOT NULL,
+    createdAt TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    updatedAt TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    deletedAt TIMESTAMP NULL,
+    UNIQUE (userId, requestedAt)
+);
